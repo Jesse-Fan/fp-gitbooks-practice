@@ -1,0 +1,16 @@
+{
+  "name": "fp-gitbook-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "dependencies": {
+    "ramda": "^0.27.0"
+  },
+  "devDependencies": {
+    "jest": "^25.4.0",
+    "nodemon": "^2.0.3"
+  }
+}
